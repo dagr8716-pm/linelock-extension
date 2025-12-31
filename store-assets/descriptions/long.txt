@@ -1,0 +1,57 @@
+LineLock – Guided Reading
+
+LineLock helps you slow down and read with intention.
+
+Instead of skimming or rereading passages, LineLock guides your eyes through text one word at a time—making it easier to stay focused, absorb meaning, and reduce mental fatigue.
+
+How it works
+
+1. Highlight any text on a webpage
+
+2. Press Enter
+
+3. LineLock reveals each word at a controlled pace while gently masking the rest
+
+You stay in control the entire time.
+
+Key features
+
+- One-word reveal reading for improved focus
+
+- Adjustable reading speed (words per minute)
+
+- Natural pacing with brief pauses at punctuation
+
+- Floating toolbar that stays visible while reading
+
+- Keyboard shortcuts for quick control
+
+- Preserves original formatting and links
+
+- Works on any webpage
+
+Built for focus
+
+LineLock is especially helpful for:
+
+- Reducing accidental skimming
+
+- Improving comprehension
+
+- Reading long articles without mental drift
+
+- Supporting focus-related reading challenges
+
+Privacy & performance
+
+- No accounts required
+
+- No data collection
+
+- No tracking or analytics
+
+- No network requests
+
+- Runs entirely locally in your browser
+
+Your reading stays private and on your device.
