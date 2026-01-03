@@ -1,12 +1,14 @@
 # Security Policy (LineLock)
 
+**Chrome Web Store:** https://chromewebstore.google.com/detail/linelock-%E2%80%93-guided-reading/jngookbfdaepdjodnnoneahbgbcednfd
+
 ## Reporting a vulnerability
 
 If you believe you’ve found a security or privacy issue in LineLock, please report it responsibly.
 
 **How to report**
 - Open a GitHub issue with the label **security** (if you’re comfortable sharing publicly), OR
-- If you prefer private disclosure, you can contact the developer via the Chrome Web Store listing contact method (https://chromewebstore.google.com/detail/jngookbfdaepdjodnnoneahbgbcednfd?utm_source=item-share-cb).
+- If you prefer private disclosure, you can contact the developer via the Chrome Web Store listing contact method.
 
 Please include:
 - A clear description of the issue
