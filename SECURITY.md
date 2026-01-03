@@ -34,6 +34,8 @@ LineLock:
 - Does **not** make external network requests
 - Stores only basic preferences locally via Chrome storage (e.g., WPM, toolbar position)
 
+**Privacy policy:** https://dagr8716-pm.github.io/linelock-privacy/
+
 ## Supported versions
 
 Security fixes will be released as updates via the Chrome Web Store. Users are encouraged to keep Chrome extensions up to date.
